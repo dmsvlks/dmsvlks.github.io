@@ -1,0 +1,29 @@
+{
+  "files": {
+    "app.js": "/static/js/app.73d14b18.chunk.js",
+    "app.js.map": "/static/js/app.73d14b18.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.4b0f5a04.js",
+    "runtime~app.js.map": "/static/js/runtime~app.4b0f5a04.js.map",
+    "static/js/2.6dc17564.chunk.js": "/static/js/2.6dc17564.chunk.js",
+    "static/js/2.6dc17564.chunk.js.map": "/static/js/2.6dc17564.chunk.js.map",
+    "fonts/MaterialIcons.ttf": "/./fonts/MaterialIcons.ttf",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/media/artimiausias_icon.png": "/static/media/artimiausias_icon.a85be830.png",
+    "static/media/card-mastercard.png": "/static/media/card-mastercard.9351e219.png",
+    "static/media/card-unknown.png": "/static/media/card-unknown.b267e735.png",
+    "static/media/card-visa.png": "/static/media/card-visa.a591306c.png",
+    "static/media/mastercard.png": "/static/media/mastercard.cb38652a.png",
+    "static/media/unknown.png": "/static/media/unknown.5387abe0.png",
+    "static/media/visa.png": "/static/media/visa.782a8692.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.4b0f5a04.js",
+    "static/js/2.6dc17564.chunk.js",
+    "static/js/app.73d14b18.chunk.js"
+  ]
+}
